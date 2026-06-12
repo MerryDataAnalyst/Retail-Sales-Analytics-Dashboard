@@ -120,25 +120,3 @@
 * Management Recommendations
 * Business Improvement Opportunities
 * Data-Driven Decision Support
-
----
-
-## Portfolio Projects
-
-### Project 1
-
-Retail Sales Performance Dashboard
-
-### Project 2
-
-Refinery Construction HSE Performance Dashboard
-
----
-
-## Current Focus
-
-* SQL Development
-* Advanced Power BI
-* Data Storytelling
-* Interview Preparation
-* Portfolio Expansion
