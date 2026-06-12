@@ -51,8 +51,6 @@ This project analyzes retail sales performance using Power BI, SQL, and Excel. T
 
 ## Dashboard Preview
 
-(Add dashboard screenshot below)
-
 <img width="756" height="428" alt="image" src="https://github.com/user-attachments/assets/b72bd643-7f78-48b1-be01-8ef9dd9fe6f6" />
 
 
