@@ -8,7 +8,7 @@ An interactive Business Intelligence dashboard developed using **Power BI**, **S
 
 ### Executive Dashboard
 
-!(Dashboard/Retail_Dashboard.png)
+![Executive Dashboard](Dashboard/Retail_Dashboard.png)
 
 ---
 
